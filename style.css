@@ -14,6 +14,7 @@ body {
     display: -ms-flexbox;
     display: flex;
     background: #111;
+    background-image: linear-gradient(90deg, rgb(0, 96, 222) 0%, rgb(255, 0, 0) 100%);
     -webkit-perspective: 1000px;
     perspective: 1000px;
     -webkit-transform-style: preserve-3d;
